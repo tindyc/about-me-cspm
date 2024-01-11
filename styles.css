@@ -224,7 +224,7 @@ body {
 }
 
 .button--learnmore {
-  border: 0.2rem solid #000;
+  border: 0.1rem solid #000;
   padding: 0.6rem 1rem;
   margin: 1rem 0.5rem;
   text-decoration: none;
@@ -233,7 +233,7 @@ body {
 }
 
 .button--resume {
-  border: 0.1rem solid #000000;
+  border: 0.1rem solid #000;
   padding: 0.6rem 1rem;
   margin: 0 0.5rem;
   background: transparent;
